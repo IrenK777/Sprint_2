@@ -19,3 +19,4 @@ class Drama(Movies):
 
 print(Comedy().add_movie('Большой куш'))
 print(Drama().add_movie('Оружейный барон'))
+
